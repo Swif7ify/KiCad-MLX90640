@@ -50,22 +50,11 @@
 			)
 		)
 		(symbol "MLX90640_Symbol_0_1"
-			(rectangle
-				(start -10.16 0)
-				(end 10.16 -35.56)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
 			(circle
 				(center -6.35 -13.97)
 				(radius 1.27)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type default)
 				)
 				(fill
@@ -76,7 +65,7 @@
 				(center 0 -6.35)
 				(radius 1.27)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type default)
 				)
 				(fill
@@ -87,7 +76,7 @@
 				(center 0 -6.35)
 				(radius 4.5791)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type default)
 				)
 				(fill
@@ -98,7 +87,7 @@
 				(center 6.35 -13.97)
 				(radius 1.27)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type default)
 				)
 				(fill
@@ -107,6 +96,17 @@
 			)
 		)
 		(symbol "MLX90640_Symbol_1_1"
+			(rectangle
+				(start -10.16 0)
+				(end 10.16 -35.56)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type background)
+				)
+			)
 			(text "MLX90640"
 				(at 0 -17.526 0)
 				(effects
