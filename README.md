@@ -17,7 +17,7 @@ I created this library to accurately reflect the MLX90640 Modules commonly found
 
 ### Schematic Symbol (`MLX90640.kicad_sym`)
 
-![KiCad Symbol Screenshot](https://github.com/user-attachments/assets/df8fa6ec-2c85-44ec-8789-db73dbd3a44c)
+![KiCad Symbol Screenshot](https://github.com/user-attachments/assets/8b724019-375f-4ddb-b806-715da05f40b7)
 <br>
 *The schematic symbol, featuring the standard I2C connection pins.*
 
